@@ -6,6 +6,7 @@ Source0:	%{name}-%{version}.tar.bz2
 License:	GPL
 Url:		http://melkor.dnp.fmph.uniba.sk/~garabik/grc.html
 Group:		Text tools
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Requires:	python
 
 %description
