@@ -1,7 +1,7 @@
 Summary:	Generic Colouriser
 Name:		grc
 Version:	1.0.6
-Release:	%mkrel 4
+Release:	%mkrel 6
 Source0:	%{name}-%{version}.tar.bz2
 License:	GPL
 Url:		http://melkor.dnp.fmph.uniba.sk/~garabik/grc.html
