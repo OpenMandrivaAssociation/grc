@@ -1,9 +1,9 @@
 Summary:	Generic Colouriser
 Name:		grc
-Version:	1.2
+Version:	1.3
 Release:	%mkrel 1
 Source0:	http://korpus.juls.savba.sk/~garabik/software/grc/%{name}_%{version}.tar.gz
-License:	GPL
+License:	GPLv2
 Url:		http://melkor.dnp.fmph.uniba.sk/~garabik/grc.html
 Group:		Text tools
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
