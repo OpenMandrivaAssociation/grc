@@ -1,7 +1,7 @@
 Summary:	Generic Colouriser
 Name:		grc
 Version:	1.5
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Text tools
 Url:		http://kassiopeia.juls.savba.sk/~garabik/software/grc.html
