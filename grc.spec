@@ -4,7 +4,7 @@ Version:	1.5
 Release:	2
 License:	GPLv2+
 Group:		Text tools
-Url:		http://kassiopeia.juls.savba.sk/~garabik/software/grc.html
+Url:		https://kassiopeia.juls.savba.sk/~garabik/software/grc.html
 Source0:	http://kassiopeia.juls.savba.sk/~garabik/software/grc/%{name}_%{version}.tar.gz
 Patch0:		grc-1.4-ipv6.patch
 Patch1:		grc-1.4-support-more-files.patch
